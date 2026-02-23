@@ -1,0 +1,11 @@
+data/raw/*.pdf
+data/database/*.db
+*.xlsx
+~.xlsx
+__pycache__/
+*.pyc
+.env
+__pycache__/
+*.pyc
+.env
+*.log
