@@ -2,7 +2,7 @@ import os
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 
-# Aseguramos que la carpeta exista
+# ...existing code...# Aseguramos que la carpeta exista
 output_dir = os.path.join("data", "raw")
 os.makedirs(output_dir, exist_ok=True)
 
